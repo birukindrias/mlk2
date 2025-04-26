@@ -1,0 +1,100 @@
+{
+  "id": "ethiopian-tourism-portal",
+  "title": "Ethiopian Tourism Portal",
+  "description": "A modern, responsive website showcasing Ethiopia's tourist destinations, cultural heritage, and travel information, featuring interactive maps and booking capabilities.",
+  "slug": "ethiopian-tourism-portal",
+  "category": "Web Design",
+  "thumbnail": "https://images.unsplash.com/photo-1528277342758-f1d7613953a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "coverImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "longDescription": "A comprehensive tourism website showcasing Ethiopia's diverse attractions, cultural heritage, and travel experiences with interactive maps and booking capabilities.",
+  "overview": "The Ethiopian Tourism Portal is a modern web platform designed to promote tourism in Ethiopia by showcasing the country's unique destinations, rich cultural heritage, and diverse travel experiences. The website serves as a comprehensive resource for travelers planning visits to Ethiopia, offering detailed information, interactive maps, and booking capabilities.",
+  "challenges": [
+    "Lack of a modern, comprehensive online presence to showcase attractions",
+    "Limited interactive tools for travelers to plan their journeys",
+    "Inefficient booking and reservation systems for tours and accommodations",
+    "Need for multilingual support to reach international audiences"
+  ],
+  "solutions": [
+    {
+      "title": "Interactive Maps",
+      "description": "Integration of Mapbox for interactive destination exploration with custom markers for attractions, accommodations, and tour sites"
+    },
+    {
+      "title": "Cultural Showcases",
+      "description": "Rich media galleries featuring Ethiopia's diverse cultures, festivals, and historical sites with immersive storytelling"
+    },
+    {
+      "title": "Booking System",
+      "description": "Integrated reservation system for tours, accommodations, and experiences with secure payment processing through Stripe"
+    },
+    {
+      "title": "Travel Guides",
+      "description": "Downloadable travel guides, itineraries, and practical information for visitors"
+    }
+  ],
+  "features": [
+    {
+      "title": "Interactive Maps",
+      "description": "Explore Ethiopia's diverse regions with custom-designed interactive maps featuring points of interest, travel routes, and detailed location information."
+    },
+    {
+      "title": "Cultural Showcases",
+      "description": "Immersive galleries and stories highlighting Ethiopia's rich cultural heritage, historical sites, and traditional practices with high-quality media."
+    },
+    {
+      "title": "Booking System",
+      "description": "Seamless reservation and payment processing for tours, accommodations, and experiences with real-time availability checking and instant confirmation."
+    },
+    {
+      "title": "Travel Guides",
+      "description": "Downloadable guides with practical information, suggested itineraries, and local insights to help travelers plan their perfect Ethiopian adventure."
+    }
+  ],
+  "results": [
+    {
+      "metric": "45+",
+      "label": "Countries Reached"
+    },
+    {
+      "metric": "75%",
+      "label": "Booking Increase"
+    },
+    {
+      "metric": "50K+",
+      "label": "Monthly Visitors"
+    }
+  ],
+  "projectDetails": {
+    "client": "Ethiopian Tourism Organization",
+    "timeline": "6 months",
+    "teamSize": "8 specialists",
+    "location": "Addis Ababa, Ethiopia",
+    "technologies": [
+      "React.js",
+      "Next.js",
+      "Mapbox",
+      "Stripe",
+      "Sanity CMS",
+      "Framer Motion"
+    ]
+  },
+  "screenshots": [
+    {
+      "image": "https://images.unsplash.com/photo-1528277342758-f1d7613953a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Homepage Design"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577367996134-1b6ae832c1fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Interactive Map Feature"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1621682372775-533449e550ed?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Cultural Heritage Section"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529420258198-20c353bda1f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Booking Interface"
+    }
+  ],
+  "relatedProjects": ["addis-business-directory", "habesha-market-campaign"]
+}

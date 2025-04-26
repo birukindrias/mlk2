@@ -1,0 +1,68 @@
+[
+  {
+    "id": "abel-tesfaye",
+    "name": "Abel Tesfaye",
+    "role": "Founder & CEO",
+    "bio": "With over 15 years of experience in the tech industry, Abel founded Meleket with a vision to transform information access in Ethiopia.",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "sara-haile",
+    "name": "Sara Haile",
+    "role": "Creative Director",
+    "bio": "Sara leads our creative team, bringing over a decade of experience in design and branding for both Ethiopian and international clients.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "daniel-berhanu",
+    "name": "Daniel Berhanu",
+    "role": "Chief Technology Officer",
+    "bio": "Daniel oversees all technical aspects of Meleket, with a focus on developing scalable solutions for emerging markets.",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "hana-girma",
+    "name": "Hana Girma",
+    "role": "Marketing Director",
+    "bio": "Hana specializes in digital marketing strategies that connect with Ethiopian consumers and diaspora communities worldwide.",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "solomon-abebe",
+    "name": "Solomon Abebe",
+    "role": "Lead Developer",
+    "bio": "Solomon brings technical expertise in mobile and web development, with a passion for creating intuitive user experiences.",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  {
+    "id": "tizita-bekele",
+    "name": "Tizita Bekele",
+    "role": "UX/UI Designer",
+    "bio": "Tizita combines aesthetics with functionality to design digital products that are both beautiful and user-friendly.",
+    "image": "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "app-development",
+    "title": "App Development",
+    "description": "Custom mobile and web applications tailored to your specific business requirements, built with the latest technologies.",
+    "features": [
+      "iOS and Android app development",
+      "Progressive Web Applications (PWA)",
+      "User-centered design approach",
+      "Backend API development",
+      "App testing and optimization",
+      "Ongoing support and maintenance"
+    ],
+    "icon": "Code"
+  },
+  {
+    "id": "web-design",
+    "title": "Web Design",
+    "description": "Professional, responsive websites that provide excellent user experiences across all devices while representing your brand effectively.",
+    "features": [
+      "Responsive, mobile-first designs",
+      "E-commerce solutions",
+      "User interface (UI) design",
+      "User experience (UX) optimization",
+      "Content management systems",
+      "Website maintenance and updates"
+    ],
+    "icon": "Layout"
+  },
+  {
+    "id": "digital-marketing",
+    "title": "Digital Marketing",
+    "description": "Comprehensive digital marketing strategies to increase your online presence, engage with your audience, and drive conversions.",
+    "features": [
+      "Social media marketing",
+      "Search engine optimization (SEO)",
+      "Pay-per-click (PPC) campaigns",
+      "Email marketing",
+      "Content marketing",
+      "Analytics and performance tracking"
+    ],
+    "icon": "BarChart"
+  },
+  {
+    "id": "event-organizing",
+    "title": "Event Organizing",
+    "description": "Full-service event planning and management for corporate, promotional, and industry-specific events.",
+    "features": [
+      "Corporate event planning",
+      "Product launch events",
+      "Conference organization",
+      "Live streaming setup",
+      "Venue selection and management",
+      "Post-event reporting and analytics"
+    ],
+    "icon": "Calendar"
+  }
+]

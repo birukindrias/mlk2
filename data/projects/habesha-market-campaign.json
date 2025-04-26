@@ -1,0 +1,95 @@
+{
+  "id": "habesha-market-campaign",
+  "title": "Habesha Market Campaign",
+  "description": "A comprehensive digital marketing campaign for Habesha Market, increasing brand awareness and driving customer engagement through multi-channel strategies.",
+  "slug": "habesha-market-campaign",
+  "category": "Digital Marketing",
+  "thumbnail": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "coverImage": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "longDescription": "A comprehensive digital marketing campaign that increased brand awareness and drove customer engagement for Habesha Market, a premium Ethiopian marketplace.",
+  "overview": "Habesha Market is a premier marketplace for authentic Ethiopian products, from traditional clothing and accessories to artisanal home décor and specialty foods. Our digital marketing campaign was designed to increase brand awareness, drive customer engagement, and boost sales across their online and physical retail channels.",
+  "challenges": [
+    "Limited online visibility in a competitive marketplace",
+    "Inconsistent brand messaging across different platforms",
+    "Difficulty connecting with younger, tech-savvy Ethiopian diaspora",
+    "Low conversion rates from social media traffic to their e-commerce platform"
+  ],
+  "approach": [
+    {
+      "title": "Brand Identity Refresh",
+      "description": "Refined brand messaging and visual elements to create a cohesive, premium-feeling identity"
+    },
+    {
+      "title": "Content Marketing",
+      "description": "Created authentic storytelling content highlighting Ethiopian culture, craftsmanship, and product origins"
+    },
+    {
+      "title": "Social Media Strategy",
+      "description": "Developed targeted campaigns across Instagram, Facebook, and TikTok with influencer partnerships"
+    },
+    {
+      "title": "Email Marketing",
+      "description": "Implemented segmented email campaigns with personalized product recommendations and cultural content"
+    },
+    {
+      "title": "SEO & SEM",
+      "description": "Optimized online presence for relevant keywords and targeted paid search campaigns"
+    }
+  ],
+  "campaignElements": [
+    {
+      "title": "Audience Targeting",
+      "description": "Precise customer segmentation focusing on the Ethiopian diaspora, cultural enthusiasts, and conscious consumers interested in authentic, ethically-sourced products.",
+      "icon": "Target"
+    },
+    {
+      "title": "Content Strategy",
+      "description": "Authentic storytelling highlighting Ethiopian craftspeople, cultural significance of products, and behind-the-scenes glimpses of sourcing and production processes.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Performance Marketing",
+      "description": "Data-driven campaign optimization with A/B testing, retargeting strategies, and conversion rate optimization for the e-commerce platform.",
+      "icon": "TrendingUp"
+    }
+  ],
+  "results": [
+    {
+      "metric": "142%",
+      "label": "Social Engagement"
+    },
+    {
+      "metric": "86%",
+      "label": "Website Traffic"
+    },
+    {
+      "metric": "37%",
+      "label": "Revenue Increase"
+    }
+  ],
+  "campaignDetails": {
+    "client": "Habesha Market",
+    "duration": "4 months",
+    "teamSize": "6 specialists",
+    "channels": ["Instagram", "Facebook", "TikTok", "Email", "Google Ads"]
+  },
+  "campaignCreative": [
+    {
+      "image": "https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Social Media Campaign"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Brand Identity Elements"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Email Marketing Campaign"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Influencer Collaboration"
+    }
+  ],
+  "relatedProjects": ["ethiopian-tourism-portal", "addis-business-directory"]
+}

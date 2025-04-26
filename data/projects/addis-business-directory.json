@@ -1,0 +1,104 @@
+{
+  "id": "addis-business-directory",
+  "title": "Addis Business Directory",
+  "description": "A comprehensive business directory application for Addis Ababa, featuring location-based search, business profiles, and user reviews.",
+  "slug": "addis-business-directory",
+  "category": "Mobile Application",
+  "thumbnail": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "coverImage": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "longDescription": "A comprehensive business directory application for Addis Ababa, helping residents and visitors discover local businesses through location-based search, detailed profiles, and user reviews.",
+  "overview": "The Addis Business Directory is a mobile-first application that connects users with thousands of businesses across Addis Ababa. Designed for both residents and tourists, the platform provides detailed information about local establishments, from restaurants and hotels to service providers and retail shops.",
+  "challenges": [
+    "Collecting accurate business data in an environment with limited digital records",
+    "Addressing inconsistent addressing systems across different parts of the city",
+    "Creating an intuitive interface that works across various device capabilities",
+    "Building a platform that functions well in areas with intermittent connectivity"
+  ],
+  "solutions": [
+    {
+      "title": "Data Collection",
+      "description": "Combined field research, business partnerships, and user contributions to build a comprehensive database"
+    },
+    {
+      "title": "Advanced Mapping",
+      "description": "Implemented a flexible location system with multiple reference points and visual mapping"
+    },
+    {
+      "title": "Progressive Web App",
+      "description": "Created a responsive interface that adapts to different devices while providing offline functionality"
+    },
+    {
+      "title": "Verified Reviews",
+      "description": "Implemented a trusted review system with verification to ensure quality feedback"
+    }
+  ],
+  "features": [
+    {
+      "title": "Smart Search",
+      "description": "Powerful search functionality with filters for category, location, ratings, and operating hours, with support for Amharic and English queries.",
+      "icon": "Search"
+    },
+    {
+      "title": "Interactive Mapping",
+      "description": "Visual map exploration with clustered markers, directions, and proximity-based recommendations for easy navigation around the city.",
+      "icon": "Map"
+    },
+    {
+      "title": "Detailed Business Profiles",
+      "description": "Comprehensive listings including contact information, services, hours, photos, menus or product catalogs, and verified user reviews.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Offline Access",
+      "description": "Core functionality available offline, including saved businesses, maps for common areas, and the ability to queue reviews for later submission.",
+      "icon": "Smartphone"
+    }
+  ],
+  "results": [
+    {
+      "metric": "25,000+",
+      "label": "Registered Businesses"
+    },
+    {
+      "metric": "100,000+",
+      "label": "Active Users"
+    },
+    {
+      "metric": "4.7/5",
+      "label": "App Store Rating"
+    }
+  ],
+  "projectDetails": {
+    "client": "Addis Ababa Chamber of Commerce",
+    "timeline": "8 months",
+    "teamSize": "12 specialists",
+    "platforms": ["iOS", "Android", "Web"]
+  },
+  "testimonials": [
+    {
+      "name": "Kebede Tadesse",
+      "role": "Restaurant Owner",
+      "quote": "The Addis Business Directory has transformed how customers find my restaurant. Since joining, we've seen a 30% increase in new customers, especially tourists who might never have discovered us otherwise."
+    },
+    {
+      "name": "Sara Mekonnen",
+      "role": "Addis Ababa Resident",
+      "quote": "This app has become essential for navigating Addis. I use it almost daily to find new places, check business hours, and read reviews. The offline maps feature is especially helpful in areas with poor connection."
+    }
+  ],
+  "screenshots": [
+    {
+      "image": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Business Listing Screen"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Map View"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529336953128-a85760f58cb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "alt": "Review Screen"
+    }
+  ],
+  "relatedProjects": ["ethiopian-tourism-portal", "habesha-market-campaign"]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "addis-business-directory",
+    "title": "Addis Business Directory",
+    "description": "A comprehensive business directory application for Addis Ababa, featuring location-based search, business profiles, and user reviews.",
+    "slug": "addis-business-directory",
+    "category": "Mobile Application",
+    "thumbnail": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "featured": true
+  },
+  {
+    "id": "ethiopian-tourism-portal",
+    "title": "Ethiopian Tourism Portal",
+    "description": "A modern, responsive website showcasing Ethiopia's tourist destinations, cultural heritage, and travel information, featuring interactive maps and booking capabilities.",
+    "slug": "ethiopian-tourism-portal",
+    "category": "Web Design",
+    "thumbnail": "https://images.unsplash.com/photo-1528277342758-f1d7613953a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "featured": true
+  },
+  {
+    "id": "habesha-market-campaign",
+    "title": "Habesha Market Campaign",
+    "description": "A comprehensive digital marketing campaign for Habesha Market, increasing brand awareness and driving customer engagement through multi-channel strategies.",
+    "slug": "habesha-market-campaign",
+    "category": "Digital Marketing",
+    "thumbnail": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "featured": true
+  }
+]
